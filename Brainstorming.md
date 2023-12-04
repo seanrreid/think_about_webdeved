@@ -1,15 +1,15 @@
-# Thinking through Dev Education<a id="thinking-through-dev-education"></a>
+# Thinking through Dev Education
 
 This is basically just a brain dump…
 
 ## JS vs Python first?
 
-| JS                                     | Python                             |
-| -------------------------------------- | ---------------------------------- |
-| Gets right into proper “web dev”       | No need to run a browser           |
-| Jumpstarts HTML (and some CSS)         | Instant “Hackerman” feel           |
-| Needs Node for CLI                     | No need to explain Node vs Browser |
-| Needs console for non-DOM related work | Intimidating at first?             |
+| JS                                             | Python                             |
+| ---------------------------------------------- | ---------------------------------- |
+| Gets right into proper “web dev”               | No need to run a browser           |
+| Jumpstarts HTML (and some CSS)                 | Instant “Hackerman” feel           |
+| Needs Node for CLI                             | No need to explain Node vs Browser |
+| Need to use console for non-DOM related output | Intimidating at first?             |
 
 ## Start with HTML _then_ move into “programming?
 
